@@ -74,7 +74,7 @@
     "electron-packager": "^10.1.0",
     "electron-reload": "^1.2.2",
     "es6-shim": "^0.35.3",
-    "node-sass": "^4.6.1",
+    "node-sass": "^4.13.1",
     "typescript": "2.3.4"
   },
   "description": "An Ionic project",
